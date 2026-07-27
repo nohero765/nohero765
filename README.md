@@ -47,7 +47,7 @@
 
 - [truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) &mdash; the CLI my launcher wraps
 - [DXMT](https://github.com/3Shain/dxmt) &mdash; the DirectX-on-Metal layer making playing DX11 games on Mac possible
-- [YAAGL](https://github.com/yaagl/yet-another-anime-game-launcher) &mdash; playing gacha games without this launcher would have been impossible
+- [YAAGL]() &mdash; playing gacha games without this launcher would have been impossible
 
 ---
 
